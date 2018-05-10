@@ -1,0 +1,19 @@
+{
+  "name": "koa-validator-decorator",
+  "version": "1.0.0",
+  "description": "koa-validator-decorator is a ES6 validator decorator by using validator core from yup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spksoft/koa-validator-decorator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spksoft/koa-validator-decorator/issues"
+  },
+  "homepage": "https://github.com/spksoft/koa-validator-decorator#readme"
+}
