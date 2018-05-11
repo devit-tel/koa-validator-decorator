@@ -8,6 +8,9 @@
     "build": "npm run clean && babel -d ./distribution ./src -s",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/spksoft/koa-validator-decorator.git"
