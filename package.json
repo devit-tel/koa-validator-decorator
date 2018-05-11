@@ -1,5 +1,5 @@
 {
-  "name": "koa-validator-decorator",
+  "name": "@spksoft/koa-validator-decorator",
   "version": "1.0.0",
   "description": "koa-validator-decorator is a ES6 validator decorator by using validator core from yup",
   "main": "./distribution/index.js",
